@@ -1,0 +1,124 @@
+/* added from /Users/jrecla/developer/sencha/touch-2.3.1/examples/getting_started/resources/css/app.css */
+.welcomeview{text-align:center;padding-top:20px;}
+.welcomeview h1{font-weight:bold;font-size:1.5em;line-height:1.0em;padding-top:20px;padding-bottom: 20px;}
+.welcomeview p{color:#666;font-size:1.4em;line-height:1.6em;margin:10px 20px 20px 20px;}
+.welcomeview h2{color:#999;font-size:0.8em;}
+
+.aboutwelcomeview{text-align:center;padding-top:20px;}
+.aboutwelcomeview h1{font-weight:bold;font-size:1.1em;line-height:1.0em;padding-top:20px;padding-bottom: 20px;}
+.aboutwelcomeview p{color:#666;font-size:1.0em;line-height:1.6em;margin:10px 20px 20px 20px;}
+.aboutwelcomeview h2{color:#999;font-size:0.8em;}
+
+/* added from http://www.sencha.com/forum/showthread.php?235447-Add-space-between-icons-Bottom-tabBar */
+.x-tabbar .x-tab{padding: 0 16px !important;}
+
+.customField input::-webkit-input-placeholder {
+	font-style: italic;
+}
+.list-item-gene { }
+.list-item-phenoDisease { }
+
+/* Taken from the pluralsight.com training video "Adding some styling to a Dataview" */
+.gene-avatar {
+	background-position: center center;
+	-webkit-border-radius: 0.5em;
+	float: left;
+	border: 0;
+	border-radius: 0.5em; 
+	margin-right: 15px;
+	margin-left: 1px;
+	width: 48px;
+	height: 43px;
+	background-size: 60px auto;
+	background-repeat: no-repeat;
+}
+
+.pheno-avatar {
+	background-position: center center;
+	-webkit-border-radius: 0.5em;
+	float: left;
+	border: 0;
+	border-radius: 0.5em; 
+	margin-right: 15px;
+	margin-left: 1px; 
+	width: 48px;	
+	height: 43px;
+	background-size: 60px auto;
+	background-repeat: no-repeat;
+}
+
+h4.updates_bold {
+	color: #6E6E7D;
+	font-size: 1.0em;
+	margin-bottom: 0.3em;
+	font-weight: bold;
+}
+
+h4.updates_unbold {
+	color: #6E6E7D;
+	font-size: 1.0em;
+	margin-bottom: 0.3em;
+}
+
+h4.pubdates_bold {
+	color: #999;
+	font-size: 1.0em;
+	margin-top: 0.3em;
+	font-weight: bold;
+}
+
+h4.pubdates_unbold {
+	color: #999;
+	font-size: 1.0em;
+	margin-top: 0.3em;
+}
+
+/*.list-master {
+	white-space: nowrap; 
+	overflow: hidden; 
+	text-overflow: ellipsis; 
+}*/
+
+.list-updates { }
+
+.search-list-empty-text {
+	padding:10px; 
+}
+
+.faves-list-empty {
+	font-weight:normal;
+	font-style:italic;
+	font-size:1.0em;
+	padding-top:20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	line-height: 2.0;
+}
+.field-label-center {
+	padding-top: 1em;
+}
+.field-label-italic {
+	font-style: italic;
+}
+.name-term-field.x-field-textarea textarea {
+	min-height: 1em;
+	padding-top: 1em;
+}
+
+.unreadUpdate {
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, color-stop(0%,#b7deed), color-stop(10%, #C5E5F1), color-stop(50%,#D4EBF4), color-stop(100%, #D4EBF4));
+}
+
+/*
+.info {
+	line-height: 2.1em;
+	font-size: 1.2em;
+}
+*/
+
+.devInfo {
+	margin-right: 5%;
+	margin-bottom: 5%; 
+	margin-top: 5%; 
+	margin-left: 5%; 		
+}

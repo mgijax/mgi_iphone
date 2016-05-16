@@ -1,0 +1,21 @@
+Supported devices and iOS versions
+
+iPhone 4
+iPhone 5, 5C, 5S
+iPhone 6
+
+iPad 2
+iPad (3rd generation)
+iPad (4th generation)
+iPad Air
+iPad Air 2
+
+iPad Mini
+iPad Mini 2
+iPad Mini 3
+
+iOS 7
+iOS 8
+
+32-bit
+64-bit
